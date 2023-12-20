@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="signin">로그인 성공</string>
+</resources>
